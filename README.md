@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manav Gupta</h1>
 <h3 align="center">A passionate DevOps Engineer!</h3>
 
-<img align="right" alt="devops image" width="400" src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif">
+<img align="right" alt="devops image" width="300" src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptamanav-10&label=Profile%20views&color=0e75b6&style=flat" alt="guptamanav-10" /> </p>
 
