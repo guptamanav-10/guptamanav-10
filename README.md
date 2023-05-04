@@ -1,3 +1,4 @@
+![logo](https://github.com/guptamanav-10/guptamanav-10/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Manav Gupta</h1>
 <h3 align="center">A passionate DevOps Engineer!</h3>
 
