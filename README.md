@@ -1,4 +1,4 @@
-![logo](https://github.com/guptamanav-10/guptamanav-10/blob/main/banner.png)
+![logo](https://www.cloud4c.com/my/sites/my/files/2023-01/devops-framework-on-google-cloud-blog-banner.jpg)
 <h1 align="center">Hi 👋, I'm Manav Gupta</h1>
 <h3 align="center">A passionate DevOps Engineer!</h3>
 
